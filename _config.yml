@@ -1,0 +1,60 @@
+# Site
+repository: opage/resume
+favicon: images/favicon.ico
+darkmode: false
+
+# Personal info
+name: Olivier Page
+title: Senior Full Stack Developer
+email: opage4@gmail.com
+website: opage.github.io
+
+# Social links
+twitter_username: olivierpage
+github_username:  opage
+linkedin_username: opage
+youtube_username: opage
+# dribbble_username: jekyll
+# facebook_username: jekyll
+# flickr_username: jekyll
+# instagram_username: opage
+# pinterest_username: jekyll
+# googleplus_username: +jekyll
+
+# About Section
+# about_title: About Me
+about_profile_image: images/profile.jpg
+about_content: | # this will include new lines to allow paragraphs
+  Hi, my name is Olivier Page and I'm a senior full stack developer. I have a lot of experience making software and web apps. I have worked at a number of companies gaining teamwork and leadership skills.
+
+  I am most skilled in: <mark>C#</mark>, <mark>Java</mark> and <mark>Angular 2+</mark>
+
+# Projects Section
+# projects_title: Projects
+
+# Experience Section
+# experience_title: Experience
+
+# Education Section
+# educaton_title: Education
+
+# More Section
+# more_title: Interests and hobbies
+more_content: | # this will include new lines to allow paragraphs
+  Alongside my interests in networks and software engineering some of my other interests and hobbies are:
+   - Manga (like [One Piece :heart:](https://www.youtube.com/watch?v=ngumaU6ILHo))
+   - Gaming (like [GTA V :godmode:](https://www.rockstargames.com))
+
+# Footer
+footer_show_references: true
+
+# Build settings
+remote_theme: opage/resume
+
+sass:
+  sass_dir: _sass
+  style: compressed
+
+plugins:
+ - jekyll-seo-tag
+ - jemoji

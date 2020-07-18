@@ -1,0 +1,84 @@
+- layout: left
+  company: Lyxor ETF
+  link: www.lyxoretf.com
+  job_title: C# Senior Full Stack Engineer
+  dates: October 2018 - Now
+  quote: >
+   Lyxor ETF subsidiary of the French Corporate and Investment Banking Societe Generale, is the 3rd European ETF (Exchange Traded Funds) provider and second in terms of market liquidity. 
+  description: | # this will include new lines to allow paragraphs
+    I joined the IT Front Team to promote and build from scratch applications for ETF fund management. Tools used daily by financials analysts and portfolio managers.
+    
+    *Technical environment: Angular 2+, ASP.NET Core, SQL Server, Spring boot, Java 8+, Oracle, Git, Jenkins, XLDeploy, JIRA, Scrum*
+
+- layout: left
+  company: Neuflize OBC
+  link: www.neuflizeobc.net
+  job_title: C# Full Stack Engineer
+  dates: July 2018 - September 2018
+  quote: >
+   Neuflize OBC subsidiary of the Dutch bank ABN AMRO, is an private French bank specialized in the business owners and family business.
+  description: | # this will include new lines to allow paragraphs
+    I participated in the build from scratch a life insurance management solution (IAssuranceVie) that respects the IDD directive (in French DDA).
+    
+    *Technical environment: Angular 2+, Angular Material, ASP.NET, SQL Server, SSIS (ETL), TFS*
+
+- layout: left
+  company: Betclic
+  link: www.betclic.com/en
+  job_title: C# Backend Engineer
+  dates: September 2017 - June 2018
+  quote: >
+   Betclic subsidiary of the Betclic Everest Group, is a French Online gambling company founded in London in 2005 and currently based in Malta and Bordeaux.
+  description: | # this will include new lines to allow paragraphs
+    In the BackOffice IT Team, I participated in the integration of new sports through the use of Betradar and BetGenius information flows.
+    I added new features in the BackOffice (Trading) and Front Sport Web site.
+  
+    *Technical environment: Angular 2+, ASP.NET MVC, Dapper, SQL Server, IoC (StructureMap), NUnit, AutoMapper, Moq, Git, RabbitMQ, ELK, JIRA, Scrum*
+
+- layout: left
+  company: JCDecaux
+  link: www.jcdecaux.com
+  job_title: C# Backend Engineer
+  dates: August 2016 - August 2017
+  quote: >
+   JCDecaux is the world's largest Out-of-Home advertising French company, reaching relevant audiences in over 80 countries, the head office is based in Neuilly-Sur-Seine.
+  description: | # this will include new lines to allow paragraphs
+    I joined a team to build from scratch a monitoring and pre-sale tool (Carthage/Sigmund) for the placement of advertising panels in the greater Paris zone and towns around Carcassonne. 
+    
+    *Technical environment: WinForms (MVVM approach), DockPanel Suite (Docking Library), ASP.NET, WebApi 2, Jwt, Swagger, PostgreSQL, FluentMigrator, GeoAPI, IoC (StructureMap), NFluent, NSubstitute, JIRA, Scrum*
+
+- layout: left
+  company: OPCO 2i
+  link: www.opco2i.fr
+  job_title: C# Backend Engineer
+  dates: December 2012 - July 2016
+  quote: >
+   OPCO 2i (ex-OPCA DEFI) is an French organization that allows the training employees management in different branches of activities (Industries, Chesmistry, Petrol, ...).
+  description: | # this will include new lines to allow paragraphs
+    In this mission, I integrated a team to build and evolve a training management tool for company employees. This tool allows employees to train by formations CPF (In French, Compte Personel de Formation).
+    
+    *Technical environment: WinForms (Code behind approach), C#, ASP.NET MVC, JQuery, TFS, EF 6, StyleCop, SQL Server, SSIS (ETL)*
+
+- layout: left
+  company: Sanofi
+  link: www.sanofi.com
+  job_title: C# Backend Engineer
+  dates: October 2012 - November 2012
+  quote: >
+   Sanofi is a French multinational pharmaceutical company in Paris, France, as of 2013 the world's fifth-largest by prescription sales.
+  description: | # this will include new lines to allow paragraphs
+    In a team of 2 devs, we redesigned of a workflow system with K2 and SharePoint.
+    
+    *Technical environment: VB.NET, ASP.NET, SharePoint, WF, K2, SQL Server, Agile*
+
+- layout: left
+  company: Paris Airport
+  link: www.parisaeroport.fr/en
+  job_title: C# Backend Engineer
+  dates: January 2011 - September 2012
+  quote: >
+   Paris Airport is an French airline company based in Orly and Roissy.
+  description: | # this will include new lines to allow paragraphs
+    In a small team of developers, I maintained three existing application (Sitdp/ParkPro/StatTD) that allows to control a network of parking. A year later i set up a new one for the needs of Geneva airport.
+    
+    *Technical environment: C, Pro C, WinDev, Crystal Reports, Bug Tracker Mantis, ASP.NET, WPF (Silverlight), SVN*

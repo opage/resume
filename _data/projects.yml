@@ -1,0 +1,9 @@
+- layout: top-middle
+  name: My personal projects
+  link: github.com/opage
+  github: opage/sokoobo
+  quote: >
+    Some personal projects.
+  description: | # this will include new lines to allow paragraphs
+    I am a Software Craftsmanship in the spirit and adept of SOLID Principles, I started some projects as a way to learn a new language or to use a new clean architecure. I strengthened many skills through this.
+    I am constantly on technology watch.
